@@ -1,7 +1,7 @@
 # LinkDrop contract
 
 Confirm logic đã đọc - hiểu:
-    1> Build linkdrop.wasm voi file build.sh
+   	1> Build linkdrop.wasm voi file build.sh
 
 	2> Login: near login
 
